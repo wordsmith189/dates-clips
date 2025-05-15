@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "wordsmith189",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11275320?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "wordsmith189",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2025-05-15T16:52:17.980Z",
-    "updated_at": "2025-05-15T16:52:17.980Z"
-  }
+    "updated_at": "2025-05-15T16:52:17.980Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "a8f3a39a-e199-4c4a-a10a-d1437384cd82": {
+      "content": [],
+      "created_at": "2025-05-15T16:52:18.001Z",
+      "created_by": "wordsmith189",
+      "title": "DATES Interviews",
+      "updated_at": "2025-05-15T16:52:18.001Z",
+      "updated_by": "wordsmith189",
+      "autogenerate": {
+        "enabled": false,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "a8f3a39a-e199-4c4a-a10a-d1437384cd82"
+  ]
 }
